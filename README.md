@@ -13,7 +13,7 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
-Answer : B - Download the Dart SDK
+Answer : B - Download the Dart SDK.
 
 2. Which command verifies the Dart installation on macOS?
 
@@ -31,7 +31,7 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
-Answer : C --Run flutter Doctor
+Answer : C -- Run flutter Doctor
 
 4. What command is used to run a newly created Flutter app?
 
